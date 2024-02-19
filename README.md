@@ -56,7 +56,8 @@
 <h3 align="center"> 🐣 Follow Me 🐣 </h3>
 <p align="center">
   <a href="https://moon99610.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-BDE6D6.svg?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@suyeoni"/></a>&nbsp
-  <a href="moon99610@naver.com"><img src="https://img.shields.io/badge/Gmail-F8A39A.svg?style=for-the-badge&logo=Gmail&logoColor=white&link=suyeon9288@gmail.com"/></a>
+  <a href="sunghyunmoon9@gmail.com"><img src="https://img.shields.io/badge/Gmail-F8A39A.svg?style=for-the-badge&logo=Gmail&logoColor=white&link=suyeon9288@gmail.com"/></a>
+  <a href="https://www.notion.so/Hi-I-m-690230fe8a2c4278a00e1b53460f34d5"><img src="https://img.shields.io/badge/Notion-F8A39A.svg?style=for-the-badge&logo=Gmail&logoColor=white&link=suyeon9288@gmail.com"/></a>
 </p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=F8E2CF&height=100&section=footer)
