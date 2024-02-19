@@ -8,8 +8,8 @@
   <div>
     <img src="https://img.shields.io/badge/Java-FFC27C?style=for-the-badge&logo=openjdk&logoColor=white"> 
     <img src="https://img.shields.io/badge/Python-A8C0E6?style=for-the-badge&logo=Python&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring_Boot-F7A69E가?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/Django-82B9DD?style=for-the-badge&logo=css3&logoColor=white">
+   <!-- <img src="https://img.shields.io/badge/Spring_Boot-F7A69E가?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/Django-82B9DD?style=for-the-badge&logo=css3&logoColor=white"> -->
   </div>
   <!-- Database -->
   <p><strong>Database</strong></p>
@@ -26,7 +26,7 @@
   <p><strong>Framework</strong></p>
   <div>
     <img src="https://img.shields.io/badge/django-4F7263?style=for-the-badge&logo=django&logoColor=white">
-   <!-- <img src="https://img.shields.io/badge/Spring Boot-B0D6A2?style=for-the-badge&logo=spring boot&logoColor=white"> >
+    <img src="https://img.shields.io/badge/Spring Boot-B0D6A2?style=for-the-badge&logo=spring boot&logoColor=white">
 <!--     <img src="https://img.shields.io/badge/react-A3E8FF?style=for-the-badge&logo=react&logoColor=black">  -->
   </div>
   <!-- Others -->
