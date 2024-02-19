@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=d8a7f5&text=SungHyun%20Moon&height=150&animation=fadeIn&fontAlignY=35&fontSize=30&fontColor=f9aa9e)
+![header](https://capsule-render.vercel.app/api?type=waving&color=d8a7f5&text=SungHyun%20Moon&height=150&animation=fadeIn&fontAlignY=35&fontSize=30&fontColor=918cf2)
 
 <div align="center">
 <h3>🛠 Tech Stack 🛠</h3>
