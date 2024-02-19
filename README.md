@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F8E2CF&text=SungHyun%20Moon&height=150&animation=fadeIn&fontAlignY=35&fontSize=30&fontColor=f9aa9e)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#b95f74&text=SungHyun%20Moon&height=150&animation=fadeIn&fontAlignY=35&fontSize=30&fontColor=f9aa9e)
 
 <div align="center">
 <h3>🛠 Tech Stack 🛠</h3>
@@ -60,6 +60,6 @@
   <a href="https://www.notion.so/Hi-I-m-690230fe8a2c4278a00e1b53460f34d5"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=F8E2CF&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=#b95f74&height=100&section=footer)
   <br>
 </div>
