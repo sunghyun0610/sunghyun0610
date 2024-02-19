@@ -42,11 +42,11 @@
 ---
  <p align="center">
 
-<a href="https://github.com/sunghyun0610/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=suyeonnii&include_all_commits=true&show_icons=true&theme=default&title_color=dd9187&text_color=c099a3&icon_color=dd9187&layout=compact&count_private=true" />
+<a href="https://github.com/sunghyun0610">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sunghyun0610&include_all_commits=true&show_icons=true&theme=default&title_color=dd9187&text_color=c099a3&icon_color=dd9187&layout=compact&count_private=true" />
 </a>
-<a href="https://github.com/suyeonnii">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyeonnii&theme=default&title_color=dd9187&text_color=c099a3&icon_color=dd9187&layout=compact&exclude_repo=OPNE-CV,Python,Project,AWS_Serverless,Google_Image_Crawling,MFC-WINDOW-PROGRAMMING" />
+<a href="https://github.com/sunghyun0610">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunghyun0610&theme=default&title_color=dd9187&text_color=c099a3&icon_color=dd9187&layout=compact&exclude_repo=OPNE-CV,Python,Project,AWS_Serverless,Google_Image_Crawling,MFC-WINDOW-PROGRAMMING" />
 </a>
 
 <br clear="left"/>
