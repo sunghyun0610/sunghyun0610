@@ -42,7 +42,7 @@
 ---
  <p align="center">
 
-<a href="https://github.com/suyeonnii">
+<a href="https://github.com/sunghyun0610/sunghyun0610">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=suyeonnii&include_all_commits=true&show_icons=true&theme=default&title_color=dd9187&text_color=c099a3&icon_color=dd9187&layout=compact&count_private=true" />
 </a>
 <a href="https://github.com/suyeonnii">
