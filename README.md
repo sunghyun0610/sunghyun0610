@@ -45,9 +45,10 @@
 ---
  <p align="center">
 
-![SungHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunghyun0610&theme=dark&show_icons=true)
-<a href="https://github.com/sunghyun0610">
+
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunghyun0610&theme=default&title_color=dd9187&text_color=c099a3&icon_color=dd9187&layout=compact&exclude_repo=OPNE-CV,Python,Project,AWS_Serverless,Google_Image_Crawling,MFC-WINDOW-PROGRAMMING" />
+  ![SungHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunghyun0610&theme=dark&show_icons=true)
+<a href="https://github.com/sunghyun0610">
 </a>
 
 <br clear="left"/>
