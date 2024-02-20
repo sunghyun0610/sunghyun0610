@@ -16,11 +16,11 @@
   <div>
     <img src="https://img.shields.io/badge/mysql-A4C3D0?style=for-the-badge&logo=mysql&logoColor=white"> 
   </div>
-<!--    Server
+
   <p><strong>Server</strong></p>
   <div>
     <img alt="Docker" src ="https://img.shields.io/badge/Docker-9FC9EE.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">  -->
+    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
   </div>
   <!-- Framework -->
   <p><strong>Framework</strong></p>
@@ -36,6 +36,9 @@
     <img src ="https://img.shields.io/badge/Notion-666666.svg?&style=for-the-badge&logo=Notion&logoColor=white">
 <!--     <img src ="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white"> -->
     <img src ="https://img.shields.io/badge/PostMan-FFAB85.svg?&style=for-the-badge&logo=Postman&logoColor=white">
+    <img src ="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white">
+    
+    
   </div>
 
 
