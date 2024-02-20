@@ -58,7 +58,7 @@
 
 <h3 align="center"> 🐣 Follow Me 🐣 </h3>
 <p align="center">
-  <a href="https://moon99610.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge/&logo=tistory&logoColor=000000"/></a>
+  <a href="https://moon99610.tistory.com"><img src="https://img.shields.io/badge/Tistory-D14836?style=for-the-badge&logo=tistory&logoColor=white"/></a>
   <a href="sunghyunmoon9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.notion.so/Hi-I-m-690230fe8a2c4278a00e1b53460f34d5"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </p>
