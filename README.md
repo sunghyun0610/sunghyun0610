@@ -16,6 +16,7 @@
   <div>
     <img src="https://img.shields.io/badge/mysql-A4C3D0?style=for-the-badge&logo=mysql&logoColor=white"> 
   </div>
+
   
   <p><strong>Server</strong></p>
   <div>
