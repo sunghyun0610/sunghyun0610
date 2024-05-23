@@ -24,7 +24,6 @@
             80% { opacity: 1; }
         }
     </style>
-
     <g transform="translate(427, 150)">
         <path id="myPath" fill="#02343F" d="M52.8,-67C68,-61.6,79.7,-45.6,82.5,-28.7C85.4,-11.8,79.5,6,71.4,20.8C63.2,35.5,53,47.1,40.7,53.3C28.5,59.4,14.2,60,-2.1,63C-18.5,65.9,-37,71.2,-52.3,66C-67.6,60.9,-79.7,45.4,-81.5,29C-83.2,12.7,-74.6,-4.4,-68.7,-22.2C-62.8,-40.1,-59.5,-58.7,-48.4,-65.4C-37.4,-72.2,-18.7,-67.1,0,-67.1C18.8,-67.2,37.6,-72.4,52.8,-67Z" >
             <animate attributeName="d" dur="10s" values="
@@ -35,8 +34,7 @@
                 repeatCount="indefinite"
             />
         </path>
-    </g>
-                
+    </g>       
     <text text-anchor="middle" alignment-baseline="middle" x="50%" y="40%" class="text" style="fill:#F0EDCC;" stroke="#none" stroke-width="1">안녕하세요</text>
     <text text-anchor="middle" alignment-baseline="middle" x="50%" y="60%" class="desc" style="fill:#F0EDCC;" stroke="#none" stroke-width="1">어제보다 오늘 더 성장하는 백엔드 개발자입니다!</text>
 </svg>
