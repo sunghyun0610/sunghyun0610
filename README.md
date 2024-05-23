@@ -2,8 +2,7 @@
 <div align="center">
 
   <div align="center">
-    <h1>안녕하세요</h1>
-    <h3>어제보다 오늘 더 성장하는 <span style="color:blue;">백엔드 개발자</span>입니다!</h3>
+    <h3>안녕하세요! 어제보다 오늘 더 성장하는 <span style="color:blue;">백엔드 개발자</span>입니다!</h3>
 </div>
 
 <h3>🛠 Tech Stack 🛠</h3>
