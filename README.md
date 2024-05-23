@@ -1,7 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=d8a7f5&text=SungHyun%20Moon&height=150&animation=fadeIn&fontAlignY=35&fontSize=30&fontColor=1f1a8e)
 <div align="center">
 
-  <h2> 안녕하세요! 어제보다 오늘더 성장하는 백엔드 개발자입니다</h2>
+  <div align="center">
+    <h1>안녕하세요</h1>
+    <h3>어제보다 오늘 더 성장하는 <span style="color:blue;">백엔드 개발자</span>입니다!</h3>
+</div>
+
 <h3>🛠 Tech Stack 🛠</h3>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
   <!-- Language -->
