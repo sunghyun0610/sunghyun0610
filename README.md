@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=d8a7f5&text=SungHyun%20Moon&height=150&animation=fadeIn&fontAlignY=35&fontSize=30&fontColor=1f1a8e)
+![header](https://capsule-render.vercel.app/api?type=waving&color=d8a7f5&height=150&animation=fadeIn&fontAlignY=35&fontSize=30&fontColor=1f1a8e)
 <div align="center">
  <img src="https://capsule-render.vercel.app/api?type=venom&animation=twinkling&color=02343F&fontColor=F0EDCC&height=300&section=header&text=Hi~👋%20I'm%20Back-end%20Developer%20Sung-Hyun%20Moon&fontSize=40">
 
