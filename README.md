@@ -42,6 +42,7 @@
 <!--     <img src ="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white"> -->
     <img src ="https://img.shields.io/badge/PostMan-FFAB85.svg?&style=for-the-badge&logo=Postman&logoColor=white">
     <img src ="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white">
+   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
   </div>
 
 ---
