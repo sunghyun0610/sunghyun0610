@@ -22,17 +22,19 @@
   <div>
     <img src="https://img.shields.io/badge/mysql-A4C3D0?style=for-the-badge&logo=mysql&logoColor=white"> 
   </div>
-  <p><strong>Server</strong></p>
-  <div>
-    <img alt="Docker" src ="https://img.shields.io/badge/Docker-9FC9EE.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
-  </div>
+
   <!-- Framework -->
   <p><strong>Framework</strong></p>
   <div>
     <img src="https://img.shields.io/badge/django-4F7263?style=for-the-badge&logo=django&logoColor=white">
     <img src="https://img.shields.io/badge/Spring Boot-B0D6A2?style=for-the-badge&logo=spring boot&logoColor=white">
 <!--     <img src="https://img.shields.io/badge/react-A3E8FF?style=for-the-badge&logo=react&logoColor=black">  -->
+  </div>
+
+    <p><strong>Devops</strong></p>
+  <div>
+    <img alt="Docker" src ="https://img.shields.io/badge/Docker-9FC9EE.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
   </div>
   <!-- Others -->
   <p><strong>Tools</strong></p>
