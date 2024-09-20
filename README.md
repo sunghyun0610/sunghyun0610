@@ -7,8 +7,6 @@
   <!-- Language -->
 
   
-
-
   <p><strong>Language</strong></p>
   <div>
     <img src="https://img.shields.io/badge/Java-FFC27C?style=for-the-badge&logo=openjdk&logoColor=white"> 
@@ -31,7 +29,7 @@
 <!--     <img src="https://img.shields.io/badge/react-A3E8FF?style=for-the-badge&logo=react&logoColor=black">  -->
   </div>
 
-    <p><strong>Devops</strong></p>
+  <p><strong>Devops</strong></p>
   <div>
     <img alt="Docker" src ="https://img.shields.io/badge/Docker-9FC9EE.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
