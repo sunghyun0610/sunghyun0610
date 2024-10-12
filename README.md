@@ -24,6 +24,7 @@
   <p><strong>Framework/Technologies</strong></p>
   <div>
     <img src="https://img.shields.io/badge/django-4F7263?style=for-the-badge&logo=django&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
     <img src="https://img.shields.io/badge/Spring Boot-B0D6A2?style=for-the-badge&logo=spring boot&logoColor=white">
    <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=MyBatis&logoColor=white">
 <!--     <img src="https://img.shields.io/badge/react-A3E8FF?style=for-the-badge&logo=react&logoColor=black">  -->
@@ -37,6 +38,7 @@
   <!-- Others -->
   <p><strong>Tools</strong></p>
   <div>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
     <img src ="https://img.shields.io/badge/Slack-815E7F.svg?&style=for-the-badge&logo=Slack&logoColor=white">
     <img src ="https://img.shields.io/badge/Notion-666666.svg?&style=for-the-badge&logo=Notion&logoColor=white">
 <!--     <img src ="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white"> -->
