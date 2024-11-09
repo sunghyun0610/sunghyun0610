@@ -6,7 +6,6 @@
 
   <!-- Language -->
 
-
   <p><strong>Language</strong></p>
   <div>
     <img src="https://img.shields.io/badge/Java-FFC27C?style=for-the-badge&logo=openjdk&logoColor=white"> 
