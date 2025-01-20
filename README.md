@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=d8a7f5&height=150&animation=fadeIn&fontAlignY=35&fontSize=30&fontColor=1f1a8e)
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=venom&animation=twinkling&color=02343F&fontColor=F0EDCC&height=150&section=header&text=Hi~👋%20I'm%20Back-end%20Developer%20Sung-Hyun%20Moon&fontSize=35">
+ <img src="https://capsule-render.vercel.app/api?type=venom&animation=twinkling&color=02343F&fontColor=F0EDCC&height=150&section=header&text=Hi~👋%20I'm%20Backend%20Developer%20Sung-Hyun%20Moon&fontSize=35">
 <h3>🛠 Tech Stack 🛠</h3>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
 
