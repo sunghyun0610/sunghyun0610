@@ -4,7 +4,6 @@
 <h3>🛠 Tech Stack 🛠</h3>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
 
-
   <!-- Language -->
   <p><strong>Language</strong></p>
   
