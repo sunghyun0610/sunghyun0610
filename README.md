@@ -65,7 +65,7 @@
 <p align="center">
   <a href="https://moon99610.tistory.com"><img src="https://img.shields.io/badge/Tistory-FF6600?style=for-the-badge&logo=tistory&logoColor=white"/></a>
   <a href="sunghyunmoon9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.notion.so/Hi-I-m-690230fe8a2c4278a00e1b53460f34d5"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="https://www.notion.so/Software-Engineer-1b9ecee0aa6c805885a8fe3ceb3eae78"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=d8a7f5&height=100&section=footer)
