@@ -35,7 +35,9 @@
   <p><strong>Infra</strong></p>
   <div>
     <img alt="Docker" src ="https://img.shields.io/badge/Docker-9FC9EE.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/AWS--EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" alt="AWS EC2 Badge">
+    <img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" alt="AWS EC2 Badge">
+   <img src="https://img.shields.io/badge/AWS-RDS-527FFF?style=for-the-badge&logo=amazon-RDS&logoColor=white" alt="AWS EC2 Badge">
+   <img src="https://img.shields.io/badge/AWS-S3-569A31?style=for-the-badge&logo=amazon-S3&logoColor=white" alt="AWS EC2 Badge">
   </div>
   <!-- Others -->
   <p><strong>Tools</strong></p>
