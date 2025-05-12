@@ -11,13 +11,7 @@
     <img src="https://img.shields.io/badge/Java-FFC27C?style=for-the-badge&logo=openjdk&logoColor=white"> 
     <img src="https://img.shields.io/badge/Python-A8C0E6?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-   <!-- <img src="https://img.shields.io/badge/Spring_Boot-F7A69E가?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/Django-82B9DD?style=for-the-badge&logo=css3&logoColor=white"> -->
-  </div>
-  <!-- Database -->
-  <p><strong>Database</strong></p>
-  <div>
-    <img src="https://img.shields.io/badge/mysql-A4C3D0?style=for-the-badge&logo=mysql&logoColor=white"> 
+  
   </div>
 
   <!-- Framework -->
@@ -28,16 +22,22 @@
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white" alt="Spring Boot Badge">
     <img src="https://img.shields.io/badge/MyBatis-B03A2E?style=for-the-badge&logo=MyBatis&logoColor=white">
     <img src="https://img.shields.io/badge/JPA-0074D9?style=for-the-badge&logo=Jpa&logoColor=white">
-    <img src="https://img.shields.io/badge/JDBC-D5D8DC?style=for-the-badge&logo=JDBC&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-A4C3D0?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
 <!--     <img src="https://img.shields.io/badge/react-A3E8FF?style=for-the-badge&logo=react&logoColor=black">  -->
   </div>
 
-  <p><strong>Infra</strong></p>
+  <p><strong>DevOps</strong></p>
   <div>
     <img alt="Docker" src ="https://img.shields.io/badge/Docker-9FC9EE.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/AWSEC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" alt="AWS EC2 Badge">
    <img src="https://img.shields.io/badge/AWSRDS-527FFF?style=for-the-badge&logo=amazon-RDS&logoColor=white" alt="AWS EC2 Badge">
    <img src="https://img.shields.io/badge/AWSS3-569A31?style=for-the-badge&logo=amazon-S3&logoColor=white" alt="AWS EC2 Badge">
+   <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white" alt="AWS EC2 Badge">
+   <img src="https://img.shields.io/badge/GithubActions-2088FF?style=for-the-badge&logo=GithubActions&logoColor=white" alt="AWS EC2 Badge">
+   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="AWS EC2 Badge">
+   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white" alt="AWS EC2 Badge">
+   
   </div>
   <!-- Others -->
   <p><strong>Tools</strong></p>
