@@ -34,7 +34,7 @@
    <img src="https://img.shields.io/badge/AWSRDS-527FFF?style=for-the-badge&logo=amazon-RDS&logoColor=white" alt="AWS EC2 Badge">
    <img src="https://img.shields.io/badge/AWSS3-569A31?style=for-the-badge&logo=amazon-S3&logoColor=white" alt="AWS EC2 Badge">
    <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white" alt="AWS EC2 Badge">
-   <img src="https://img.shields.io/badge/GithubActions-2088FF?style=for-the-badge&logo=GithubActions&logoColor=white" alt="AWS EC2 Badge">
+   <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=GithubActions&logoColor=white" alt="AWS EC2 Badge">
    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="AWS EC2 Badge">
    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white" alt="AWS EC2 Badge">
    
