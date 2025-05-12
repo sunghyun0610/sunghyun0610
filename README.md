@@ -25,7 +25,7 @@
   <div>
     <img src="https://img.shields.io/badge/django-4F7263?style=for-the-badge&logo=django&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
-    <!--<img src="https://img.shields.io/badge/Spring Boot-B0D6A2?style=for-the-badge&logo=spring boot&logoColor=white"> -->
+    <img src="https://img.shields.io/badge/Spring Boot-#6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
    <img src="https://img.shields.io/badge/MyBatis-B03A2E?style=for-the-badge&logo=MyBatis&logoColor=white">
    <img src="https://img.shields.io/badge/JPA-0074D9?style=for-the-badge&logo=Jpa&logoColor=white">
    <img src="https://img.shields.io/badge/JDBC-D5D8DC?style=for-the-badge&logo=JDBC&logoColor=white">
@@ -35,7 +35,7 @@
   <p><strong>Infra</strong></p>
   <div>
     <img alt="Docker" src ="https://img.shields.io/badge/Docker-9FC9EE.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
-    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+    <img src="https://img.shields.io/badge/AWS-EC2-#FF9900?style=for-the-badge&logo=AWS-EC2&logoColor=white"> 
   </div>
   <!-- Others -->
   <p><strong>Tools</strong></p>
