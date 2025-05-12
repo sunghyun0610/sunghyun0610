@@ -24,6 +24,7 @@
     <img src="https://img.shields.io/badge/JPA-0074D9?style=for-the-badge&logo=Jpa&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-A4C3D0?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
+    <img src ="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white">
 <!--     <img src="https://img.shields.io/badge/react-A3E8FF?style=for-the-badge&logo=react&logoColor=black">  -->
   </div>
 
@@ -48,7 +49,6 @@
     <img src ="https://img.shields.io/badge/Notion-666666.svg?&style=for-the-badge&logo=Notion&logoColor=white">
 <!--     <img src ="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white"> -->
     <img src ="https://img.shields.io/badge/PostMan-FFAB85.svg?&style=for-the-badge&logo=Postman&logoColor=white">
-    <img src ="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white">
     <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
   </div>
 
