@@ -21,7 +21,7 @@
   </div>
 
   <!-- Framework -->
-  <p><strong>Framework/Technologies</strong></p>
+  <p><strong>Backend</strong></p>
   <div>
     <img src="https://img.shields.io/badge/django-4F7263?style=for-the-badge&logo=django&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
@@ -35,9 +35,9 @@
   <p><strong>Infra</strong></p>
   <div>
     <img alt="Docker" src ="https://img.shields.io/badge/Docker-9FC9EE.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" alt="AWS EC2 Badge">
-   <img src="https://img.shields.io/badge/AWS-RDS-527FFF?style=for-the-badge&logo=amazon-RDS&logoColor=white" alt="AWS EC2 Badge">
-   <img src="https://img.shields.io/badge/AWS-S3-569A31?style=for-the-badge&logo=amazon-S3&logoColor=white" alt="AWS EC2 Badge">
+    <img src="https://img.shields.io/badge/AWSEC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" alt="AWS EC2 Badge">
+   <img src="https://img.shields.io/badge/AWSRDS-527FFF?style=for-the-badge&logo=amazon-RDS&logoColor=white" alt="AWS EC2 Badge">
+   <img src="https://img.shields.io/badge/AWSS3-569A31?style=for-the-badge&logo=amazon-S3&logoColor=white" alt="AWS EC2 Badge">
   </div>
   <!-- Others -->
   <p><strong>Tools</strong></p>
