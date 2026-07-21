@@ -52,12 +52,6 @@
     <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
   </div>
 
-<p align="center">
-
-  <a href="https://github.com/sunghyun0610">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunghyun0610&theme=dark&title_color=dd9187&text_color=c099a3&icon_color=dd9187&layout=compact&exclude_repo=OPNE-CV,Python,Project,AWS_Serverless,Google_Image_Crawling,MFC-WINDOW-PROGRAMMING" />
-  </a>
-</p>
 
 
 
